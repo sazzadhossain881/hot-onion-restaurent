@@ -1,0 +1,11 @@
+.mt-100{
+    margin-top: 80px;
+}
+.dec,.inc,.quantity{
+width: 40px;
+height: 40px;
+border: 1px solid silver;
+display: flex;
+align-items: center;
+justify-content: center;
+}
